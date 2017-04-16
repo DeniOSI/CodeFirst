@@ -1,0 +1,10 @@
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\obj\Debug\Entity_Framwork.csprojResolveAssemblyReference.cache
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\bin\Debug\Entity_Framwork.exe.config
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\bin\Debug\Entity_Framwork.exe
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\bin\Debug\Entity_Framwork.pdb
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\bin\Debug\EntityFramework.dll
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\bin\Debug\EntityFramework.SqlServer.dll
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\bin\Debug\EntityFramework.xml
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\bin\Debug\EntityFramework.SqlServer.xml
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\obj\Debug\Entity_Framwork.exe
+g:\users7\denos\documents\visual studio 2017\Projects\Entity_Framwork\Entity_Framwork\obj\Debug\Entity_Framwork.pdb
